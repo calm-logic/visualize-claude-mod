@@ -1,0 +1,10 @@
+{
+  "name": "visualize",
+  "version": "0.1.0",
+  "description": "Pixel-art view of what the agent (and each subagent) is looking at and thinking about, driven by tool calls and keywords.",
+  "types": "./types/index.d.ts",
+  "author": {
+    "name": "calm-logic"
+  },
+  "homepage": "https://github.com/calm-logic/visualize-claude-mod"
+}

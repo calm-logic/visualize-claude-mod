@@ -1,0 +1,15 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-marketplace.json",
+  "name": "visualize-claude-mod",
+  "owner": { "name": "calm-logic" },
+  "description": "visualize: a pixel-art view of what Claude Code (and each subagent) is doing and thinking about",
+  "plugins": [
+    {
+      "name": "visualize",
+      "source": "./",
+      "description": "Run /visualize for a live grid of scenes: files read and written, test runs, browser flows and thinking animations, one tile per agent.",
+      "homepage": "https://github.com/calm-logic/visualize-claude-mod",
+      "keywords": ["visualization", "subagents", "pixel-art"]
+    }
+  ]
+}
